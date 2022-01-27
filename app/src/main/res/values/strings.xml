@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Handbook_p2</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="ethereum">Ethereum</string>
+    <string name="dogecoin">Dogecoin</string>
+    <string name="shiba_inu">Shiba Inu</string>
 </resources>
